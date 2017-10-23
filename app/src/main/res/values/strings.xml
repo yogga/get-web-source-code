@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get Source Code</string>
+    <string-array name="list_spin">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
